@@ -1,5 +1,4 @@
 # finetuned-Distilbert-bbc-news-classification-
-
 The goal of the project is to identitfy the topic/class of the News Article. i.e. What is the category of the article among 5 categories : ***business, entertainment, politics, sport, tech***. </br>
 I have finetuned DistilBERT on the BBC News Classification Dataset using Hugging Face Trainer API and then created a RestAPI using FastAPI and Docker.
 
